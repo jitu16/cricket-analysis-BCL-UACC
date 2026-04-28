@@ -1,0 +1,750 @@
+{
+    "BCL T20 2021": [
+        {
+            "overs": 2.0,
+            "runs": 19,
+            "wickets": 0,
+            "victims": [],
+            "date": "07-24-2022"
+        }
+    ],
+    "BCL T20 2022": [
+        {
+            "overs": 4.0,
+            "runs": 31,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Haseeb Rasheed",
+                    "playerID": "rFiQUSYsjhay867hKuu9oA",
+                    "runs": 26,
+                    "balls": 33,
+                    "strike_rate": 78.79,
+                    "pos": 1
+                }
+            ],
+            "date": "07-30-2022"
+        },
+        {
+            "overs": 5.0,
+            "runs": 45,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Karim Bhayani",
+                    "playerID": "HEuN5DFjPK6HWTqZrp9NCQ",
+                    "runs": 7,
+                    "balls": 16,
+                    "strike_rate": 43.75,
+                    "pos": 3
+                },
+                {
+                    "name": "Altaf Baghani",
+                    "playerID": "iCvGQiqQIG1_l2dcqskSxg",
+                    "runs": 0,
+                    "balls": 2,
+                    "strike_rate": 0.0,
+                    "pos": 8
+                }
+            ],
+            "date": "08-06-2022"
+        },
+        {
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Santosh Msg",
+                    "playerID": "0qXSI9ILwAhDHJXIThM7cQ",
+                    "runs": 5,
+                    "balls": 11,
+                    "strike_rate": 45.45,
+                    "pos": 1
+                },
+                {
+                    "name": "Naveen Dakarapu",
+                    "playerID": "zCX3wtftMdzKg2YBq8D_CQ",
+                    "runs": 7,
+                    "balls": 16,
+                    "strike_rate": 43.75,
+                    "pos": 8
+                }
+            ],
+            "date": "08-14-2022"
+        },
+        {
+            "overs": 2.0,
+            "runs": 14,
+            "wickets": 0,
+            "victims": [],
+            "date": "08-28-2022"
+        },
+        {
+            "overs": 1.0,
+            "runs": 11,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-18-2022"
+        },
+        {
+            "overs": 3.0,
+            "runs": 26,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-25-2022"
+        },
+        {
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 3,
+            "victims": [
+                {
+                    "name": "Pehlaj Rai",
+                    "playerID": "bvYJc9JF5lFmqCdp8mWrCw",
+                    "runs": 2,
+                    "balls": 3,
+                    "strike_rate": 66.67,
+                    "pos": 1
+                },
+                {
+                    "name": "Rahan Butt",
+                    "playerID": "0L8wMPv1TAc9ZF4LCk5Qug",
+                    "runs": 8,
+                    "balls": 10,
+                    "strike_rate": 80.0,
+                    "pos": 5
+                },
+                {
+                    "name": "Amir Sattar Mas",
+                    "playerID": "m2gTddCohsGw_KNqG_Q0eg",
+                    "runs": 21,
+                    "balls": 15,
+                    "strike_rate": 140.0,
+                    "pos": 10
+                }
+            ],
+            "date": "12-04-2022"
+        },
+        {
+            "overs": 2.0,
+            "runs": 30,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Bhavik Dave",
+                    "playerID": "vhqEWesiLus0zhWKt5B6pw",
+                    "runs": 11,
+                    "balls": 12,
+                    "strike_rate": 91.67,
+                    "pos": 3
+                }
+            ],
+            "date": "02-25-2023"
+        }
+    ],
+    "BCL T25 2023": [
+        {
+            "overs": 4.0,
+            "runs": 26,
+            "wickets": 0,
+            "victims": [],
+            "date": "04-01-2023"
+        },
+        {
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Adeel Mehmood",
+                    "playerID": "pRns_L05PLeYO7c1XCrtdA",
+                    "runs": 70,
+                    "balls": 60,
+                    "strike_rate": 116.67,
+                    "pos": 3
+                },
+                {
+                    "name": "Muhammad Harris Hashmi",
+                    "playerID": "14YV2_jMhdGrqav0MzaKfQ",
+                    "runs": 23,
+                    "balls": 20,
+                    "strike_rate": 115.0,
+                    "pos": 5
+                }
+            ],
+            "date": "04-29-2023"
+        },
+        {
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Mokshad Gaonkar",
+                    "playerID": "Br0CdBKzqYnslW4qHIHACg",
+                    "runs": 32,
+                    "balls": 16,
+                    "strike_rate": 200.0,
+                    "pos": 4
+                }
+            ],
+            "date": "05-07-2023"
+        },
+        {
+            "overs": 5.0,
+            "runs": 47,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Dixit Patel",
+                    "playerID": "m4XHncoRO2J9Swfzycbhuw",
+                    "runs": 26,
+                    "balls": 17,
+                    "strike_rate": 152.94,
+                    "pos": 5
+                }
+            ],
+            "date": "06-17-2023"
+        },
+        {
+            "overs": 5.0,
+            "runs": 35,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Nrupal Patel",
+                    "playerID": "5e67Cqi7XgFWOODoI8cQQg",
+                    "runs": 5,
+                    "balls": 4,
+                    "strike_rate": 125.0,
+                    "pos": 7
+                },
+                {
+                    "name": "Ravi Bhagyapalli",
+                    "playerID": "y8Y2QSbJUjdGMV8TGUtR7g",
+                    "runs": 11,
+                    "balls": 6,
+                    "strike_rate": 183.33,
+                    "pos": 9
+                }
+            ],
+            "date": "06-25-2023"
+        }
+    ],
+    "BCL T20 2023": [
+        {
+            "overs": 3.0,
+            "runs": 25,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-02-2023"
+        },
+        {
+            "overs": 3.0,
+            "runs": 20,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-10-2023"
+        },
+        {
+            "overs": 3.0,
+            "runs": 22,
+            "wickets": 3,
+            "victims": [
+                {
+                    "name": "Mehrooz Qadri",
+                    "playerID": "NOl8YoLjImBDxmcuRnq31g",
+                    "runs": 23,
+                    "balls": 26,
+                    "strike_rate": 88.46,
+                    "pos": 2
+                },
+                {
+                    "name": "Ehtsham Rasool",
+                    "playerID": "AT8RGSvqr_dEkZqcFI6UWw",
+                    "runs": 44,
+                    "balls": 34,
+                    "strike_rate": 129.41,
+                    "pos": 3
+                },
+                {
+                    "name": "Faraz Raza",
+                    "playerID": "jEFNe-_zwlWPmcMVF3O_vQ",
+                    "runs": 0,
+                    "balls": 2,
+                    "strike_rate": 0.0,
+                    "pos": 4
+                }
+            ],
+            "date": "09-17-2023"
+        },
+        {
+            "overs": 4.0,
+            "runs": 40,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-23-2023"
+        },
+        {
+            "overs": 1.0,
+            "runs": 9,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-30-2023"
+        },
+        {
+            "overs": 1.0,
+            "runs": 12,
+            "wickets": 0,
+            "victims": [],
+            "date": "10-15-2023"
+        },
+        {
+            "overs": 4.0,
+            "runs": 23,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Dinesh Reddy Kaithi",
+                    "playerID": "XqGL42jkuO2JvDaJRMjUBQ",
+                    "runs": 11,
+                    "balls": 12,
+                    "strike_rate": 91.67,
+                    "pos": 2
+                },
+                {
+                    "name": "Revanth Reddy Kovvuri",
+                    "playerID": "x-Tl4h1MhnjABQ-wYwLLJA",
+                    "runs": 12,
+                    "balls": 11,
+                    "strike_rate": 109.09,
+                    "pos": 4
+                }
+            ],
+            "date": "11-05-2023"
+        }
+    ],
+    "BCL T25 2024": [
+        {
+            "overs": 1.0,
+            "runs": 5,
+            "wickets": 0,
+            "victims": [],
+            "date": "03-31-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 21,
+            "wickets": 0,
+            "victims": [],
+            "date": "04-06-2024"
+        },
+        {
+            "overs": 4.0,
+            "runs": 16,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Kaleem Ahmad",
+                    "playerID": "2UAA4WsKU5QmMSEEX9V9Qg",
+                    "runs": 63,
+                    "balls": 50,
+                    "strike_rate": 126.0,
+                    "pos": 1
+                }
+            ],
+            "date": "04-14-2024"
+        },
+        {
+            "overs": 4.0,
+            "runs": 22,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Prashant Prabhat",
+                    "playerID": "gNhzQq96NLpLr0_G8aTi1Q",
+                    "runs": 6,
+                    "balls": 7,
+                    "strike_rate": 85.71,
+                    "pos": 5
+                },
+                {
+                    "name": "Priyank Patel",
+                    "playerID": "LRNqam5RQ7uaeFfrYPVb4Q",
+                    "runs": 7,
+                    "balls": 9,
+                    "strike_rate": 77.78,
+                    "pos": 6
+                }
+            ],
+            "date": "04-28-2024"
+        },
+        {
+            "overs": 5.0,
+            "runs": 34,
+            "wickets": 3,
+            "victims": [
+                {
+                    "name": "Vijay Kumar Mahto",
+                    "playerID": "w9phrav6KhQ5UDkMF5l2kg",
+                    "runs": 49,
+                    "balls": 42,
+                    "strike_rate": 116.67,
+                    "pos": 2
+                },
+                {
+                    "name": "Vivek Ambidi",
+                    "playerID": "6uBskpodHZBr9c67jfhYzg",
+                    "runs": 28,
+                    "balls": 27,
+                    "strike_rate": 103.7,
+                    "pos": 3
+                },
+                {
+                    "name": "Keerthi Ramanahalli Basavaraju",
+                    "playerID": "gs_PqCWdWZF0r_C7XXsuiw",
+                    "runs": 0,
+                    "balls": 3,
+                    "strike_rate": 0.0,
+                    "pos": 5
+                }
+            ],
+            "date": "05-05-2024"
+        },
+        {
+            "overs": 5.0,
+            "runs": 39,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Adeel Mehmood",
+                    "playerID": "pRns_L05PLeYO7c1XCrtdA",
+                    "runs": 37,
+                    "balls": 23,
+                    "strike_rate": 160.87,
+                    "pos": 1
+                },
+                {
+                    "name": "Syed Faraz Raza",
+                    "playerID": "RTwS0yWLcrOhbjA6PXQoqw",
+                    "runs": 0,
+                    "balls": 1,
+                    "strike_rate": 0.0,
+                    "pos": 3
+                }
+            ],
+            "date": "05-19-2024"
+        },
+        {
+            "overs": 4.0,
+            "runs": 37,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Srikanth Reddy Pundikura",
+                    "playerID": "Xt060xzXKd2Y_yve-jAdzg",
+                    "runs": 47,
+                    "balls": 35,
+                    "strike_rate": 134.29,
+                    "pos": 1
+                },
+                {
+                    "name": "Rakesh Mahanty",
+                    "playerID": "3PyJ5IDtld0MdsP1sXYifA",
+                    "runs": 1,
+                    "balls": 3,
+                    "strike_rate": 33.33,
+                    "pos": 6
+                }
+            ],
+            "date": "06-01-2024"
+        },
+        {
+            "overs": 5.0,
+            "runs": 18,
+            "wickets": 3,
+            "victims": [
+                {
+                    "name": "Saideepak Ponugoti",
+                    "playerID": "XUzPttbascHjoraZ7P4SVQ",
+                    "runs": 33,
+                    "balls": 36,
+                    "strike_rate": 91.67,
+                    "pos": 6
+                },
+                {
+                    "name": "Arun Varma",
+                    "playerID": "03zr9dOiEr9uPvJ1DgOujw",
+                    "runs": 1,
+                    "balls": 6,
+                    "strike_rate": 16.67,
+                    "pos": 7
+                },
+                {
+                    "name": "Rajendra Kothapally",
+                    "playerID": "x__Nzz6l_4kv5S1NIuz_aw",
+                    "runs": 2,
+                    "balls": 2,
+                    "strike_rate": 100.0,
+                    "pos": 9
+                }
+            ],
+            "date": "06-08-2024"
+        },
+        {
+            "overs": 4.0,
+            "runs": 34,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Rudradip Pattanayak",
+                    "playerID": "BB2Ez5lW4bU3Qx1Ix9BPJQ",
+                    "runs": 9,
+                    "balls": 13,
+                    "strike_rate": 69.23,
+                    "pos": 5
+                },
+                {
+                    "name": "Anvesh S",
+                    "playerID": "GKXTs9zmwuCe2oPe9qxR5w",
+                    "runs": 0,
+                    "balls": 1,
+                    "strike_rate": 0.0,
+                    "pos": 6
+                }
+            ],
+            "date": "06-22-2024"
+        }
+    ],
+    "BCL T20 2024": [
+        {
+            "overs": 3.0,
+            "runs": 30,
+            "wickets": 0,
+            "victims": [],
+            "date": "08-04-2024"
+        },
+        {
+            "overs": 3.0,
+            "runs": 18,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Rayudu Parimi",
+                    "playerID": "V8IUbqgnetM3kZOZpXrZkg",
+                    "runs": 1,
+                    "balls": 3,
+                    "strike_rate": 33.33,
+                    "pos": 4
+                }
+            ],
+            "date": "08-11-2024"
+        },
+        {
+            "overs": 3.0,
+            "runs": 25,
+            "wickets": 0,
+            "victims": [],
+            "date": "08-17-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 8,
+            "wickets": 0,
+            "victims": [],
+            "date": "08-25-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 17,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-08-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 13,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Sujik Patel",
+                    "playerID": "cwXAChFT2MeUmlAWbXXWdA",
+                    "runs": 18,
+                    "balls": 15,
+                    "strike_rate": 120.0,
+                    "pos": 4
+                }
+            ],
+            "date": "09-21-2024"
+        },
+        {
+            "overs": 4.0,
+            "runs": 28,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Muhammad Ehsan Faquih",
+                    "playerID": "j91nJfmYtE_ckmwHQLm-dA",
+                    "runs": 39,
+                    "balls": 26,
+                    "strike_rate": 150.0,
+                    "pos": 3
+                },
+                {
+                    "name": "Sohail Memdani",
+                    "playerID": "IfRXXU46Ya9fbayeyHpb8A",
+                    "runs": 17,
+                    "balls": 21,
+                    "strike_rate": 80.95,
+                    "pos": 6
+                }
+            ],
+            "date": "09-29-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 22,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Nrupal Patel",
+                    "playerID": "M9AepbxGInQSh8dYTIUShA",
+                    "runs": 8,
+                    "balls": 6,
+                    "strike_rate": 133.33,
+                    "pos": 5
+                }
+            ],
+            "date": "10-06-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 11,
+            "wickets": 0,
+            "victims": [],
+            "date": "10-20-2024"
+        },
+        {
+            "overs": 2.0,
+            "runs": 20,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Aly Hirani",
+                    "playerID": "lQ9t2qJkABwSBJwxkq_iYw",
+                    "runs": 13,
+                    "balls": 8,
+                    "strike_rate": 162.5,
+                    "pos": 9
+                }
+            ],
+            "date": "11-02-2024"
+        }
+    ],
+    "BCL T25 2025": [
+        {
+            "overs": 1.0,
+            "runs": 18,
+            "wickets": 0,
+            "victims": [],
+            "date": "05-04-2025"
+        },
+        {
+            "overs": 3.2,
+            "runs": 26,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Salman Khan",
+                    "playerID": "0iPG42DBO8P50Cghbzrbaw",
+                    "runs": 30,
+                    "balls": 30,
+                    "strike_rate": 100.0,
+                    "pos": 1
+                },
+                {
+                    "name": "Atul Kumar",
+                    "playerID": "wA12DLHKpXdg8FXk7CgkeQ",
+                    "runs": 23,
+                    "balls": 18,
+                    "strike_rate": 127.78,
+                    "pos": 9
+                }
+            ],
+            "date": "06-07-2025"
+        },
+        {
+            "overs": 4.0,
+            "runs": 29,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Karim Bhayani",
+                    "playerID": "HEuN5DFjPK6HWTqZrp9NCQ",
+                    "runs": 64,
+                    "balls": 36,
+                    "strike_rate": 177.78,
+                    "pos": 3
+                },
+                {
+                    "name": "Amaan Porbandarwala",
+                    "playerID": "24m35TR0buL4UpFdGgR6xQ",
+                    "runs": 5,
+                    "balls": 7,
+                    "strike_rate": 71.43,
+                    "pos": 8
+                }
+            ],
+            "date": "06-22-2025"
+        },
+        {
+            "overs": 3.0,
+            "runs": 17,
+            "wickets": 0,
+            "victims": [],
+            "date": "06-28-2025"
+        }
+    ],
+    "BCL T20 2025": [
+        {
+            "overs": 3.0,
+            "runs": 14,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Amaan Porbandarwala",
+                    "playerID": "24m35TR0buL4UpFdGgR6xQ",
+                    "runs": 36,
+                    "balls": 40,
+                    "strike_rate": 90.0,
+                    "pos": 3
+                }
+            ],
+            "date": "08-03-2025"
+        }
+    ],
+    "BCL T25 2026": [
+        {
+            "overs": 4.0,
+            "runs": 24,
+            "wickets": 0,
+            "victims": [],
+            "date": "04-05-2026"
+        },
+        {
+            "overs": 3.0,
+            "runs": 41,
+            "wickets": 0,
+            "victims": [],
+            "date": "04-19-2026"
+        },
+        {
+            "overs": 2.0,
+            "runs": 20,
+            "wickets": 0,
+            "victims": [],
+            "date": "04-26-2026"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "BCL T20 2025": [
+        {
+            "overs": 3.0,
+            "runs": 23,
+            "wickets": 0,
+            "victims": [],
+            "date": "08-16-2025"
+        },
+        {
+            "overs": 4.0,
+            "runs": 38,
+            "wickets": 0,
+            "victims": [],
+            "date": "08-24-2025"
+        },
+        {
+            "overs": 4.0,
+            "runs": 41,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-07-2025"
+        },
+        {
+            "overs": 4.0,
+            "runs": 44,
+            "wickets": 0,
+            "victims": [],
+            "date": "09-20-2025"
+        }
+    ],
+    "BCL T25 2026": [
+        {
+            "overs": 5.0,
+            "runs": 25,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Mehrooz Qadri",
+                    "playerID": "NOl8YoLjImBDxmcuRnq31g",
+                    "runs": 76,
+                    "balls": 45,
+                    "strike_rate": 168.89,
+                    "pos": 1
+                }
+            ],
+            "date": "04-11-2026"
+        },
+        {
+            "overs": 5.0,
+            "runs": 74,
+            "wickets": 1,
+            "victims": [
+                {
+                    "name": "Prudhvi Amaravadhi",
+                    "playerID": "oY_KWadBP4Ipxwj5idyCHQ",
+                    "runs": 2,
+                    "balls": 5,
+                    "strike_rate": 40.0,
+                    "pos": 2
+                }
+            ],
+            "date": "04-19-2026"
+        },
+        {
+            "overs": 5.0,
+            "runs": 33,
+            "wickets": 2,
+            "victims": [
+                {
+                    "name": "Hari Merla",
+                    "playerID": "jm7eTs7W4S-W4ZhK38QFBA",
+                    "runs": 0,
+                    "balls": 1,
+                    "strike_rate": 0.0,
+                    "pos": 2
+                },
+                {
+                    "name": "Guru Prasad Kempegowdanahalli Somashekar",
+                    "playerID": "XWcqTVTVeHXLom0lObC2Tw",
+                    "runs": 16,
+                    "balls": 17,
+                    "strike_rate": 94.12,
+                    "pos": 7
+                }
+            ],
+            "date": "04-26-2026"
+        }
+    ]
+}
