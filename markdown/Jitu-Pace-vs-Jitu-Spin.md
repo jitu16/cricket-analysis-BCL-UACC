@@ -1,12 +1,12 @@
 # Head-to-Head Analysis: Pace vs Spin
 
 ## Configuration Profiles
-**Name: Jitu**
+**Player A Name: Jitu**
 - Label: Pace
 - Seasons Included: BCL T20 2021, BCL T25 2022, BCL T20 2022, BCL T25 2023, BCL T25 2024
 - Matches Analyzed: 29
 
-**Name: Jitu**
+**Player B Name: Jitu**
 - Label: Spin
 - Seasons Included: BCL T20 2024, BCL T25 2025, BCL T20 2025, BCL T25 2026
 - Matches Analyzed: 31

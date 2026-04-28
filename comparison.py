@@ -96,11 +96,11 @@ def generate_markdown_report(config_a, config_b, results, count_a, count_b):
     md = [
         f"# Head-to-Head Analysis: {config_a['label']} vs {config_b['label']}\n",
         "## Configuration Profiles",
-        f"**Name: {config_a['player']}**",
+        f"**Player A Name: {config_a['player']}**",
         f"- Label: {config_a['label']}",
         f"- Seasons Included: {', '.join(config_a['seasons']) if isinstance(config_a['seasons'], list) else config_a['seasons']}",
         f"- Matches Analyzed: {count_a}\n",
-        f"**Name: {config_b['player']}**",
+        f"**Player B Name: {config_b['player']}**",
         f"- Label: {config_b['label']}",
         f"- Seasons Included: {', '.join(config_b['seasons']) if isinstance(config_b['seasons'], list) else config_b['seasons']}",
         f"- Matches Analyzed: {count_b}\n",
@@ -140,11 +140,11 @@ def main():
     #     "seasons": ["BCL T20 2021", "BCL T25 2022", "BCL T20 2022", "BCL T25 2023", "BCL T25 2024"]
     # }
 
-    config_b = {
-        "player": "Jitu",
-        "label": "Spin",
-        "seasons": ["BCL T20 2024", "BCL T25 2025", "BCL T20 2025", "BCL T25 2026"]
-    }
+    # config_b = {
+    #     "player": "Jitu",
+    #     "label": "Spin",
+    #     "seasons": ["BCL T20 2024", "BCL T25 2025", "BCL T20 2025", "BCL T25 2026"]
+    # }
 
     # Example 2: Comparing your entire career vs someone else's
     config_a = {
@@ -153,7 +153,12 @@ def main():
         "seasons": "ALL"
     }
 
-    # --- EXECUTION ZONE ---
+    config_b = {
+        "player": "Halim",
+        "label": "Full_Career",
+        "seasons": "ALL"
+    }
+
 
     data_a = load_player_data(config_a["player"])
     data_b = load_player_data(config_b["player"])
