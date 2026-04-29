@@ -148,7 +148,7 @@ def main():
 
     # Example 2: Comparing your entire career vs someone else's
     config_a = {
-        "player": "Hemal",
+        "player": "Sajjad",
         "label": "Full_Career",
         "seasons": "ALL"
     }
